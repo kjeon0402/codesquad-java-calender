@@ -36,9 +36,6 @@ public class Calendar {
 		}
 		
 		System.out.println("Bye");
-		
-		// cal.printSampleCalendar();
-		
 		scanner.close();
 	}
 }
